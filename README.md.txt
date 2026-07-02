@@ -10,15 +10,12 @@ Push blocks onto their target locations to complete each level.
 
 - WASD - Move
 - Push blocks by walking into them
+- Due to some technical issues the mouse movement is not working as intented in the link that's provided but works completely fine when in game.
 
 ## Built With
 
 - Unreal Engine 5
 - Blueprint
-
-## Play the Game
-
-[Add your build link here]
 
 ## Source Code
 
